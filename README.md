@@ -27,4 +27,4 @@ Usage Guide Enter the Document Use the text area to input the entire document yo
 
 Project Structure groqbot.py: Main script containing the Streamlit app and logic for the RAG bot. requirements.txt: List of dependencies required for the project.
 
-Contributing We welcome contributions to Text_Maven! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
+Contributing We welcome contributions to Docubot If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
