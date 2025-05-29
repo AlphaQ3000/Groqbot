@@ -9,10 +9,10 @@ from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
 
 # Set your Groq API key as a string
-groq_api_key = "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"
+groq_api_key = "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" # must be kept hidden (in .env file)
 
 # Initialize Streamlit components and session state
-st.title("Text_Maven")
+st.title("DocuBot")
 st.write("---------------------------------------------------------------------------")   
 
 # Initialize ChatGroq model
