@@ -1,5 +1,5 @@
-# Groqbot
-Groqbot is an AI chatbot designed to answer questions based on provided documents using Retrieval-Augmented Generation (RAG). It leverages the Groq API with the Llama3 model, LangChain for document processing, and Streamlit for the user interface.
+# Docubot
+Docubot is an AI chatbot designed to answer questions based on provided documents using Retrieval-Augmented Generation (RAG). It leverages the Groq API with the Llama3 model, LangChain for document processing, and Streamlit for the user interface.
 
 FEATURES
 Document Ingestion: Input and store multiple texts.
@@ -14,6 +14,7 @@ Groq API
 FAISS
 OllamaEmbeddings
 Setup Instructions
+
 1. Clone the Repository git clone 
 
 2-Install Dependencies pip install -r requirements.txt
